@@ -1,0 +1,3 @@
+Second_file
+
+Imagine that we need to send files to 3rd-party system. It sore them as Base64 encoded string.
